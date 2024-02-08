@@ -25,7 +25,7 @@
 <img src="http://views.whatilearened.today/views/github/lricardogarcia/views.svg"/>
 <h3>⚡️ Parceiro dos seus projetos ⚡️</h3><br/>
 <p>
-  🧔  <bold>Ricardo Garcia</bold>. 21 anos, amateur de code.<br/>
+  🧔  <bold>Ricardo Garcia</bold>. 21 anos, amante de código.<br/>
   💼 Eu moro em <a href="https://www.google.com/maps?q=palmas+,TO">Palmas, TO</a>, no Brasil.<br/>
   💻 Full Stack Developer
 </p><br/>
