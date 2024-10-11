@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **Python, SQL, Data Pipelines, and Big Data**
 
-- 📫 How to reach me **ricardogarcia.py.data@gmail.com**
+- 📫 How to reach me **ricardo.garcia.data@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
