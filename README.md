@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ricardo Garcia</h1>
+<h1 align="center">Hi 👋, I'm Luiz Ricardo Garcia</h1>
 <h3 align="center">A passionate Data Engineer from Brazil</h3>
 
 - 🌱 I’m currently learning **Data Engineering tools and frameworks, such as Apache Spark and Airflow**
