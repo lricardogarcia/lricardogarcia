@@ -1,26 +1,101 @@
-<h1 align="center">Hi 👋, I'm Luiz Ricardo Garcia</h1>
-<h3 align="center">A passionate Data Engineer from Brazil</h3>
+# 👋 Hi, I'm Luiz Ricardo Garcia  
 
-- 🌱 I’m currently learning **Data Engineering tools and frameworks, such as Apache Spark and Airflow**
+### 🚀 Data Engineer | Full-Stack Developer | Big Data Enthusiast  
 
-- 💬 Ask me about **Python, SQL, Data Pipelines, and Big Data**
+🎯 Apaixonado por desenvolvimento backend, análise de dados e automação de processos. Com experiência em criação de **APIs escaláveis**, **pipelines de dados** e **dashboards interativos**, busco sempre soluções inovadoras para otimizar sistemas e integrar grandes volumes de dados.  
 
-- 📫 How to reach me **ricardo.garcia.data@gmail.com**
+💡 Atualmente, trabalho como **Desenvolvedor Python na Secretaria do Planejamento e Orçamento**, focado em **FastAPI, SQL, Big Data e visualização de dados interativa**.  
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/rick-garcia007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rick-garcia007" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/27609083" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="27609083" height="30" width="40" /></a>
-<a href="https://kaggle.com/luizricardogarcia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="luizricardogarcia" height="30" width="40" /></a>
-<a href="https://instagram.com/lrick_garcia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="lrick_garcia" height="30" width="40" /></a>
-<a href="https://medium.com/@ricardogarcia.py.data" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@ricardogarcia.py.data" height="30" width="40" /></a>
-</p>
+📍 Palmas - TO, Brasil 🇧🇷  
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://cassandra.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_cassandra/apache_cassandra-icon.svg" alt="cassandra" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lricardogarcia&show_icons=true&locale=en&layout=compact" alt="lricardogarcia" /></p>
+## 🚀 Tecnologias & Ferramentas  
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lricardogarcia&show_icons=true&locale=en" alt="lricardogarcia" /></p>
+### **🖥️ Backend & APIs**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)  
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lricardogarcia&" alt="lricardogarcia" /></p>
+### **📊 Análise & Big Data**  
+![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
+![Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
+![Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)  
+
+### **☁️ Cloud & DevOps**  
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
+
+### **📈 BI & Visualização**  
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)  
+
+---
+
+## 📌 Sobre Mim  
+
+- 🔭 Atualmente, desenvolvendo **APIs escaláveis** e **dashboards interativos** para análise de dados governamentais.  
+- 🌱 Aprendendo mais sobre **Big Data, Apache Spark e Kubernetes**.  
+- 📝 Compartilho artigos e tutoriais no [Medium](https://medium.com/@ricardogarcia.py.data).  
+- 💬 Pergunte-me sobre **Python, SQL, Data Pipelines e Big Data**.  
+- 📧 Entre em contato: **ricardo.garcia.data@gmail.com**.  
+
+---
+
+## 🔥 Meus Projetos  
+
+### 📊 **[Dashboard de Análise de Dados em Tempo Real](https://github.com/seu-repo)**  
+🔹 Plataforma full stack para análise de dados, com **backend Django + Apache Spark** e frontend **React.js + Chart.js**.  
+🔹 **Tecnologias:** Django, Spark, PostgreSQL, React.js, AWS.  
+🔹 **Impacto:** Permitiu análise de dados em tempo real, facilitando a tomada de decisões estratégicas.  
+
+### 🤖 **[Web App de Análise de Sentimentos com IA](https://github.com/seu-repo)**  
+🔹 Utiliza **FastAPI e Transformers (NLP)** para análise de sentimentos em textos.  
+🔹 **Tecnologias:** FastAPI, Django, PostgreSQL, React.js, TailwindCSS.  
+🔹 **Impacto:** Automatizou análises de sentimento para marketing e suporte ao cliente.  
+
+### 🛠 **[Plataforma de Monitoramento de Serviços](https://github.com/seu-repo)**  
+🔹 Sistema de monitoramento de APIs e servidores, registrando logs e gerando alertas.  
+🔹 **Tecnologias:** Django, Celery, Redis, Prometheus, Grafana, Next.js.  
+🔹 **Impacto:** Melhor observabilidade e tempo de resposta em aplicações críticas.  
+
+---
+
+## 📊 GitHub Stats  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=lricardogarcia&show_icons=true&theme=radical" alt="GitHub Stats" height="150"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lricardogarcia&theme=radical" alt="GitHub Streak" height="150"/>
+</p>  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=lricardogarcia&layout=compact&theme=radical" alt="Top Languages" height="150"/>
+</p>  
+
+---
+
+## 🌍 Conecte-se Comigo  
+
+<p align="center">
+  <a href="https://linkedin.com/in/rick-garcia007" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
+  </a>
+  <a href="https://stackoverflow.com/users/27609083" target="_blank">
+    <img src="https://img.shields.io/badge/Stack%20Overflow-FE7A16?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="Stack Overflow" />
+  </a>
+  <a href="https://kaggle.com/luizricardogarcia" target="_blank">
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" />
+  </a>
+  <a href="https://medium.com/@ricardogarcia.py.data" target="_blank">
+    <img src="https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
+  </a>
+</p>  
+
+---
+
+📌 **"A tecnologia só faz sentido quando melhora a vida das pessoas."** 🚀  
