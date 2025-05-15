@@ -56,9 +56,8 @@
 
 ## 🔥 Featured Projects  
 
-### 📈 [State Budget Forecasting](https://github.com/your-repo-budget)  
-Time series forecasting models using LSTM and Prophet to project public revenue and expenses, integrated into a Power BI dashboard.  
-**Impact:** Improved forecasting accuracy by 35% and automated recurring financial analyses.  
+### 📈 [Análise Global do Índice de Igualdade Legal para Mulheres (WBL Index)](https://github.com/lricardogarcia/wbl_index_projeto)  
+Este projeto analisa a evolução do Women, Business and the Law Index Score (WBL Index) — um indicador do Banco Mundial que avalia como leis e regulamentos afetam a vida econômica das mulheres em diferentes países.  
 
 ### 📉 [Stock Market Trend Prediction (B3)](https://github.com/your-repo-stock)  
 Exploratory and predictive analysis of historical stock market data using yFinance and Scikit-Learn.  
