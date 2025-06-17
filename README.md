@@ -1,67 +1,58 @@
 # 👋 Hey, I'm Luiz Ricardo Garcia
 
-### 🧠 Software Engineer | Back-end | Python & Go | APIs | AWS | Data Engineering
+## 🧠 Software Engineer | Back-end | Python | Ruby on Rails | Go | APIs | Cloud | Data Engineering
 
-I design and build scalable software — from RESTful APIs and asynchronous microservices to cloud-native infrastructure and predictive data workflows. My focus is delivering high-impact systems using clean architecture, automation, and data-driven logic.
+I design and build scalable back-end systems — from RESTful APIs and asynchronous microservices to cloud-native infrastructure and data pipelines.  
 
-🔧 Currently building APIs, ETL pipelines, and ML-powered services for the public sector in Brazil — enabling real-time financial insights through modern software practices.
+🔧 Currently working on public sector projects in Brazil, modernizing legacy systems and delivering real-time financial insights through modern software engineering practices.
 
 📍 Palmas, Brazil 🇧🇷  
-🌎 Open to remote roles in Back-end Engineering | Cloud Development | Data Engineering
+🌎 Open to remote roles in: **Back-end Development | Cloud Engineering | Data Engineering**
 
 ---
 
-## 🛠️ Core Tech Stack
+## 🚀 Tech Stack Highlights
 
-### **Back-end Development**
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot)
+### 🛠️ Back-end Development
+- **Languages:** Python, Ruby, Go, Java
+- **Frameworks:** Django, FastAPI, Flask, Ruby on Rails, Spring Boot
+- **Microservices & APIs:** RESTful APIs, Async services, JWT, OAuth2
 
-### **Cloud & DevOps**
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions)
-
-### **Data Engineering & ML**
-![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apacheairflow)
-![SQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql)
-![Prophet](https://img.shields.io/badge/Prophet-003366?style=for-the-badge)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
+### ☁️ Cloud & DevOps
+- **Containers & Orchestration:** Docker, Kubernetes
+- **Cloud Platforms:** AWS
+- **CI/CD:** GitHub Actions
+- **Monitoring:** Prometheus, Grafana
 
 ---
 
-## 🔍 About Me
+## ✨ About Me
 
-- 🎯 Passionate about building robust APIs and data-driven platforms
-- 🧱 Advocate for clean architecture, TDD, CI/CD, and automation
-- 📡 Experienced with event-driven systems, metrics, and monitoring (Prometheus + Grafana)
-- 📘 Constant learner exploring Go, Kubernetes, and Terraform
-- 📈 Focused on delivering maintainable, scalable solutions for real-world problems
+- Passionate about clean architecture, performance, and scalable system design  
+- Advocate of TDD, CI/CD, automation and monitoring-first culture  
+- Experienced with event-driven systems, background jobs, and metrics observability  
+- Constant learner (currently exploring Go, Kubernetes, Terraform)  
 
 ---
 
-## 🚀 Featured Projects
+## 🔍 Featured Projects
 
 ### 🛡️ [Secure Auth API (FastAPI)](https://github.com/lricardogarcia)  
-RBAC system with JWT authentication, Docker, and CI/CD via GitHub Actions.  
+Role-based authentication with JWT, CI/CD pipelines, and containerized deployment.  
 **Stack:** FastAPI, PostgreSQL, Pytest, Docker, GitHub Actions
 
 ### 📆 [Asynchronous Scheduler Microservice (Go)](https://github.com/lricardogarcia)  
-Microservice architecture with RabbitMQ queues and metrics via Prometheus.  
+High-performance microservice for task scheduling using RabbitMQ and Prometheus metrics.  
 **Stack:** Go, RabbitMQ, PostgreSQL, Prometheus, Grafana
 
-### 📈 [Forecasting API for Public Finance](https://github.com/your-forecast-api)  
-RESTful API to serve time-series forecasts for government budget planning.  
+### 📈 [Public Finance Forecast API](https://github.com/your-forecast-api)  
+Time-series forecasting API for budget planning in the public sector.  
 **Stack:** Flask, Prophet, AWS Lambda  
 **Impact:** Enabled real-time financial predictions for decision-makers
 
-### 📊 [Gender Equality Analytics (WBL Dashboard)](https://github.com/lricardogarcia/wbl_index_projeto)  
-Data analysis and visualization on gender laws across countries.  
-**Stack:** Pandas, Plotly, PCA, Seaborn
+### 📊 [Gender Equality Analytics Dashboard](https://github.com/lricardogarcia/wbl_index_projeto)  
+Data visualization project analyzing global gender laws.  
+**Stack:** Pandas, Plotly, Seaborn, PCA
 
 ---
 
@@ -78,7 +69,7 @@ Data analysis and visualization on gender laws across countries.
 
 ---
 
-## 🌐 Let's Connect
+## 🌐 Let’s Connect
 
 <p align="center">
   <a href="https://linkedin.com/in/lricardogarcia" target="_blank">
@@ -97,4 +88,4 @@ Data analysis and visualization on gender laws across countries.
 
 ---
 
-📌 _"Engineering isn't just about code — it's about building systems that matter."_  
+📌 _"Engineering isn't just about writing code — it's about building systems that solve real-world problems."_  
