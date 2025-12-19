@@ -1,59 +1,140 @@
-# 👋 Hey, I'm Luiz Ricardo Garcia
+👋 Hi, I'm Luiz Ricardo Garcia
+Backend Engineer focused on Internal Systems, Data Integrity & Metrics
 
-## 🧠 Data Scientist | Data Analyst | Machine Learning | Python | SQL | Cloud
+I design and build practical internal systems that replace spreadsheets, manual workflows and unreliable reporting.
+My focus is on clean architecture, strong data modeling, auditability and automated metrics — software that companies actually trust to run daily operations.
 
-I transform raw data into business insights through **statistical analysis, machine learning models, and interactive dashboards**.  
-Currently transitioning from backend engineering to **full-time data science**, with projects ranging from ETL pipelines to ML in production.
-
-📍 Palmas, Brazil 🇧🇷  
-🌎 Open to remote roles in: **Data Science | Data Engineering | Machine Learning**
-
----
-
-## 🚀 Tech Stack Highlights
-
-### 📊 Data Science & ML
-- **Languages:** Python, R, SQL  
-- **Libraries:** Pandas, NumPy, Scikit-learn, TensorFlow, PyTorch, Matplotlib, Seaborn  
-- **Techniques:** Regression, Classification, Clustering, NLP, Deep Learning  
-
-### ☁️ Data Engineering & Cloud
-- **ETL & Pipelines:** PySpark, Airflow  
-- **Databases:** PostgreSQL, MongoDB  
-- **Cloud:** AWS, Azure, GCP  
-- **Visualization:** Power BI, Tableau, Looker Studio  
+📍 Based in Brazil 🇧🇷
+🌍 Open to remote roles in Europe
+🎯 Target markets: Netherlands · Ireland · Finland
+🧑‍💻 Target roles: Backend Engineer | Software Engineer | Systems Engineer
 
 ---
+🧠 What I Build (and Why)
 
-## 🔍 Featured Data Projects
+I work on backend systems where correctness and clarity matter more than hype:
 
-### 📈 [Sales Forecasting with Time Series](https://github.com/lricardogarcia/sales-forecasting)  
-Predictive models for retail demand using ARIMA and Facebook Prophet.  
-**Stack:** Python, Pandas, Prophet, Power BI  
-**Impact:** Improved accuracy of demand prediction by 20%
+Internal operational systems (not public SaaS demos)
 
-### 🧑‍🤝‍🧑 [Customer Churn Prediction](https://github.com/lricardogarcia/churn-prediction)  
-Classification model to predict customer churn for telecom.  
-**Stack:** Scikit-learn, Logistic Regression, Random Forest, Streamlit  
-**Impact:** Identified 85% of potential churn customers
+Backend-driven dashboards and indicators
 
-### 🏥 [Healthcare Data Analysis](https://github.com/lricardogarcia/healthcare-dashboard)  
-Exploratory data analysis and dashboard for hospital admissions.  
-**Stack:** Pandas, Seaborn, Looker Studio  
-**Impact:** Provided actionable insights for hospital resource allocation
+Explicit business rules and permissions
 
-### 🌍 [Gender Equality Analytics Dashboard](https://github.com/lricardogarcia/wbl_index_projeto)  
-Data visualization project analyzing global gender laws.  
-**Stack:** Pandas, Plotly, Seaborn, PCA  
+Historical consistency and audit trails
+
+Automation through background jobs
+
+This is the type of software commonly found in Nordic and European companies: quiet, reliable and well-structured.
 
 ---
+🧱 Core Tech Stack
+🐍 Backend & Systems
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lricardogarcia&show_icons=true&theme=radical" height="150"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lricardogarcia&theme=radical" height="150"/>
-</p>
+Python 3.12
+
+Django (authentication, ORM, admin, templates)
+
+PostgreSQL (relational modeling, reporting, aggregation)
+
+Service-layer architecture (no business logic in views)
+
+⚙️ Data & Automation
+
+Advanced SQL (aggregations, metrics, trends)
+
+Celery + Redis for async jobs and scheduled tasks
+
+Snapshot-based metrics and historical indicators
+
+📊 Visualization (Backend-first)
+
+Django Templates
+
+Chart.js
+
+Server-side rendering for simplicity and speed
+
+🐳 Development & Infra
+
+Docker & Docker Compose
+
+Git & GitHub
+
+Linux-based development environment
 
 ---
+🚀 Featured Project
+🏢 InternalOps — Operational Management System
 
-📌 *"Data science isn’t just about models — it’s about solving real-world problems with data."*
+📌 A realistic internal system built to replace Excel-based operations
+
+InternalOps is a backend-focused web application that centralizes operational records and automatically generates reliable indicators for decision-making.
+
+This project was designed to reflect real internal software used by companies, not portfolio-style demo apps.
+
+---
+🔑 Key Features
+
+Role-based access control (Admin / Manager / Viewer)
+
+Operational records with lifecycle control (pending, confirmed, canceled)
+
+Category management with historical integrity
+
+Full audit log with structured change tracking
+
+Automated financial and operational metrics
+
+Background jobs for recalculation and monthly snapshots
+
+Simple, fast dashboard focused on clarity, not visuals
+
+---
+🧠 Engineering Decisions
+
+Strong domain modeling (Operations, Categories, Audit Logs)
+
+Soft deletes instead of physical removal
+
+Metrics calculated at database/service level
+
+No heavy logic in the frontend
+
+Async processing to protect request performance
+
+Stack: Python · Django · PostgreSQL · Celery · Redis · Docker
+
+---
+🏗️ Architecture Principles
+
+Apps separated by domain
+
+Thin views, explicit service layers
+
+Clear ownership of business rules
+
+Data integrity over shortcuts
+
+Readable code over clever abstractions
+
+These principles align well with Nordic engineering culture, where maintainability and correctness are key.
+
+---
+📌 What I’m Looking For
+
+Backend roles focused on internal systems
+
+Teams that value clean code and data reliability
+
+Products supporting real operational workflows
+
+English-speaking, international environments
+
+Companies in Finland, the Netherlands or Ireland
+
+---
+📊 GitHub Activity
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=lricardogarcia&show_icons=true&theme=radical" height="150"/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=lricardogarcia&theme=radical" height="150"/> </p>
+
+---
+“Well-built backend systems are invisible — until something breaks.”
