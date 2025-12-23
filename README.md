@@ -1,13 +1,12 @@
 # Hi, I'm Luiz Ricardo Garcia
 
-## Backend Engineer — Internal Systems & Data Integrity
+## Backend Software Engineer — Internal Systems & Data Integrity
 
 I build **reliable internal systems** that replace spreadsheets and manual processes.  
 My focus is on **clean architecture, strong data modeling, auditability and automated metrics**.
 
-📍 Brazil 🇧🇷  
-🌍 Open to remote roles in **Netherlands · Ireland · Finland**  
-💼 Backend Engineer | Software Engineer
+📍 Brazil 🇧🇷
+🌍 Open to remote roles · Finland · Germany · Netherlands
 
 ---
 
